@@ -1,0 +1,16 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  text-align: left;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #b04730;
+  color: white;
+}
