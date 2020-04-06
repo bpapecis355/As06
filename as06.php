@@ -17,13 +17,13 @@ function main () {
 	// echo html head section
 	echo '<html>';
 	echo '<head>';
-	echo '	<link rel="icon" href="img/cardinal_logo.png" type="image/png" />';
+	echo '	<link rel="stylesheet" href="as06style.css" type="text/css" />';
 	echo '</head>';
 	
 	// open html body section
 	echo '<body onload="loadDoc()">';
 	
-	echo '<table style="width:50%">' ;
+	echo '<table style="width:25%">' ;
 	echo ' <tr> ';
 	echo ' <th> Country Name </th> ';
 	echo ' <th> # of Cases </th> ';
